@@ -1,23 +1,55 @@
-# 100 Days of Code – Udemy Python Bootcamp  
-### Project: Lego Problem
+🧱 LEGO Data Analysis – 100 Days of Code (Udemy Python Bootcamp)
+📌 Project Overview
 
-This repository contains the solution to the **Lego problem** from the *100 Days of Code: The Complete Python Pro Bootcamp* by Angela Yu on Udemy. :contentReference[oaicite:1]{index=1}
+This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu.
 
----
+In this project, I performed data analysis on LEGO datasets to explore trends, history, and insights about LEGO sets and themes using Python.
 
-## 🧠 Project Overview
+The analysis answers interesting questions such as:
 
-In this exercise, I used Python to solve a coding challenge involving Lego data. The task focused on manipulating lists, reading input, applying logic, and producing correct output in a structured way.
+What is the largest LEGO set ever created?
+When did LEGO start releasing sets?
+Which LEGO themes have the most sets?
+How has LEGO’s product offering evolved over time?
+Have LEGO sets become more complex over the years?
+🧠 Skills Demonstrated
+Data Analysis
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Problem Solving
+Data Visualization
+Statistical Thinking
+🛠️ Tools & Technologies
+Python
+Pandas
+Matplotlib
+Jupyter Notebook / VS Code
+📂 Dataset
 
-It demonstrates understanding of:
+The dataset is sourced from Rebrickable, which contains detailed information about LEGO sets, themes, and parts.
 
-- Python basics (variables, lists, loops, functions)  
-- Control flow and conditionals  
-- Input/output handling  
-- Problem solving logic
+Files included in this repository:
 
-This project was completed as part of the Udemy bootcamp.
-
----
-
-## 📦 Project Structure
+sets.csv – Information about LEGO sets
+themes.csv – LEGO themes and categories
+Other dataset files used for analysis
+⚙️ Operations Performed
+Data loading and inspection using Pandas
+Data cleaning and handling missing values
+Merging datasets for deeper insights
+Grouping and aggregation (e.g., sets per year, themes)
+Finding trends and patterns in LEGO data
+Visualizing results using graphs and charts
+📊 Key Insights
+LEGO has significantly expanded its product range over time
+Certain themes dominate in terms of number of sets
+The complexity (number of parts) in LEGO sets has increased over the years
+The company shows clear growth trends in both themes and set releases
+🚀 How to Run the Project
+Clone the repository
+git clone https://github.com/your-username/lego-data-analysis.git
+Navigate to the project folder
+cd lego-data-analysis
+Install required libraries
+pip install pandas matplotlib
+Run the Python file / Jupyter Notebook
