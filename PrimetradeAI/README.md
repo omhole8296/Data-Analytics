@@ -3,6 +3,8 @@
 
 This project analyzes the relationship between market sentiment (Fear/Greed) and trader performance using historical trading data.
 
+
+
 🔹 Methodology
 Loaded and cleaned datasets (sentiment + trader data)
 
@@ -25,12 +27,14 @@ Long/Short ratio
 Visualized results using matplotlib
 
 
+
 🔹 Key Insights
 Trader performance (PnL and win rate) is highest during Extreme Greed
 
 Trading activity is highest during Fear conditions
 
 Traders take larger positions during Fear but achieve better profitability during Greed
+
 
 
 🔹 Strategy Recommendations
@@ -41,12 +45,14 @@ Reduce position size during Fear to manage risk
 Align trading strategy with market sentiment
 
 
+
 🔹 Bonus
 Proposed predictive model using sentiment + behavior features
 
 Suggested clustering traders into behavioral groups
 
 Proposed Streamlit dashboard for visualization
+
 
 
 🔹 How to Run
