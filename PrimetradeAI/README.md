@@ -1,4 +1,5 @@
 📌 Trader Performance vs Market Sentiment Analysis
+
 🔹 Objective
 
 This project analyzes the relationship between market sentiment (Fear/Greed) and trader performance using historical trading data.
