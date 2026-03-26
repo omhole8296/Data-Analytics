@@ -33,7 +33,7 @@ Traders are most active during Fear conditions, indicating that volatility drive
 Traders take larger positions during Fear but achieve better profitability during Extreme Greed with relatively smaller trade sizes.
 
 
-## insights strategy
+## Insights Strategy
 
 Strategy 1: Sentiment-Based Trade Selection
 
@@ -44,7 +44,7 @@ Strategy 2: Dynamic Position Sizing
 The analysis shows that traders take larger positions during Fear but achieve better results during Extreme Greed with smaller positions. Therefore, traders should reduce position size during Fear to manage risk and increase exposure moderately during Greed periods, where market conditions are more favorable.
 
 
-## recommendations
+## Recommendations
 
 Predictive Model Idea
 
