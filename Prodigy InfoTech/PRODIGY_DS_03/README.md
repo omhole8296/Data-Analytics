@@ -57,20 +57,36 @@ Matplotlib
 📁 Project Structure
 Prodigy-DataScience-Task3/
 │
+
 ├── data/
+
 │   └── bank-additional-full.csv
+
 │
+
 ├── notebooks/
+
 │   └── Prodigy InfoTech task 3.ipynb
+
 │
+
 ├── scripts/
+
 │   └── task3.py
+
 │
+
 ├── outputs/
+
 │   └── tree.png
+
 │
+
 ├── README.md
+
 └── requirements.txt
+
+
 📷 Output
 
 
