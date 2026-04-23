@@ -11,6 +11,8 @@ Dataset: Bank Marketing Dataset (UCI Repository)
 File used: bank-additional-full.csv
 Total records: 41,188
 Target variable: y (yes/no)
+
+
 🧹 Data Preprocessing
 
 The dataset did not contain null values, but included "unknown" values which were treated as missing.
@@ -21,27 +23,37 @@ Replaced "unknown" with missing values
 Filled categorical missing values using mode
 Dropped the duration column to avoid data leakage
 Converted categorical variables using One-Hot Encoding
+
+
 🔄 Feature Engineering
 Encoded categorical variables using pd.get_dummies()
 Defined:
 Features (X)
 Target (y)
+
+
 🤖 Model Building
 Model used: Decision Tree Classifier
 Split data into training and testing sets (80/20)
 Trained model using Scikit-learn
+
+
 📊 Model Evaluation
 Accuracy achieved: ~89%
 Evaluated using classification metrics such as precision, recall, and F1-score
+
+
 📈 Key Insights
 Customer behavior and previous campaign outcomes influence subscription
 Economic indicators also play a role in predictions
 Proper preprocessing significantly improves model performance
+
 🛠️ Technologies Used
 Python
 Pandas
 Scikit-learn
 Matplotlib
+
 📁 Project Structure
 Prodigy-DataScience-Task3/
 │
