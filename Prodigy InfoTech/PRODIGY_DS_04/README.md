@@ -56,8 +56,11 @@ Most tweets are short to medium in length
 
 
 🛠️ Technologies Used
+
 Python
+
 Pandas
+
 Matplotlib
 
 
